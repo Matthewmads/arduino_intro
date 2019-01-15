@@ -223,7 +223,7 @@ void loop()
   lcd.print("Hum=%");            //display "Hum=%"
   lcd.print(hum);
   lcd.setCursor(10,0) ;
-  lcd.print("Smraza");           //display "MCT"
+  lcd.print("MCT");           //display "MCT"
   lcd.setCursor(0,1) ;           //Display position
   lcd.print("Tem=");            //display"Temp="
   lcd.print(temp);
