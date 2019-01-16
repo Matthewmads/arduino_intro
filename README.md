@@ -209,14 +209,15 @@ void setup()
 void loop()
 {
   int sensorValue = analogRead(A0);
-  // Turn off the display:
+  // Move the cursor back to the beginning to replace existing text
   lcd.setCursor(0,0);
   lcd.print("Sensor Value:");
+  // Move the cursor to the second line
   lcd.setCursor(0,1);
   lcd.print(String(sensorValue) + "           ");
   delay(500);
  }
- 
+
 ```
 
 
