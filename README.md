@@ -192,6 +192,33 @@ void loop()
  }
 
 ```
+### LCD1602 with Potentiometer
+```
+#include <LiquidCrystal_I2C.h>
+LiquidCrystal_I2C lcd(0x27,16,2);
+
+void setup()                                                                                     
+{
+  lcd.init();
+  lcd.backlight();
+  lcd.print("Welcome to");
+  lcd.setCursor(0,1);   //Display position
+  lcd.print("MakerspaceCT");
+  delay(1000);
+}
+void loop()
+{
+  int sensorValue = analogRead(A0);
+  // Turn off the display:
+  lcd.setCursor(0,0);
+  lcd.print("Sensor Value:");
+  lcd.setCursor(0,1);
+  lcd.print(String(sensorValue) + "           ");
+  delay(500);
+ }
+ 
+```
+
 
 ### LCD1602 with  DHT Sensor
 ```
