@@ -1,11 +1,16 @@
 # Intro to Arduino
 This repository contains notes, documentation, and code snippets for the MCT Intro to Arduino Class.
 
-## Notes / Useful Links
+## Getting Started
+The Arduino IDE is already configured on MakerspaceCT's computers, but when you go to set up the Development Environment at home, here is where to find the software:
+* Download the latest version (1.8.8 as of this writing) of the Arduino IDE: https://www.arduino.cc/en/Main/Software
 
+## Notes / Useful Links
 * [Arduino in a Nutshell](https://www.teachmeteamwork.com/files/arduino-in-a-nutshell-1.8.pdf) - Jan Borchers' 20-page crash course in Arduino. Great, simple explanations of Arduino features.
+* [Arduino Website](https://arduino.cc) - Official Arduino project website - lots of great learning tutorials here.
 * [Smraza S32 Starter Kit](https://www.amazon.com/Smraza-Starter-Ultrasonic-Distance-Raspberry/dp/B01MATM4XF/ref=sr_1_1?ie=UTF8&qid=1547591276&sr=8-1&keywords=s32+smraza) - Parts kit used in class (does not include Arduino Uno board or USB cable).
 * [Smraza S32 Tutorial Download](https://mega.nz/#F!9tYjhBLR!LerlzHYou2gNKJvzXs_8aA) - Link to download the source tutorials for the kit used in class.
+* [Uno R3-compatible Board and Cable](https://www.amazon.com/Elegoo-EL-CB-001-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/ref=sr_1_1?keywords=arduino+uno&qid=1552332604&s=gateway&sr=8-1) - sample Arduino-compatible board. This isn't linked because it's any better than any other board. You can also search Amazon, [Bang good](https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html?rmmds=search&cur_warehouse=CN), or any number of other sites for "Arduino Uno R3".
 
 ## Code snippets
 These are some of the code snippets used in class.
@@ -57,6 +62,8 @@ void loop() {
 }
 
 ```
+## Part 2
+These code samples were used in Part 2 of MakerspaceCT's Intro to Arduino. Feel free to give them a try on your own!
 
 ### Stepper
 ```
@@ -167,7 +174,6 @@ void loop()
 }
 ```
 
-
 ### LCD1602
 ```
 #include <LiquidCrystal_I2C.h>
@@ -235,3 +241,5 @@ void loop()
 }
 
 ```
+
+If you have any questions after the class, please feel free to email education at makerspacect.com.
