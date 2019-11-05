@@ -5,6 +5,12 @@ This repository contains notes, documentation, and code snippets for the MCT Int
 The Arduino IDE is already configured on MakerspaceCT's computers, but when you go to set up the Development Environment at home, here is where to find the software:
 * Download the latest version (1.8.8 as of this writing) of the Arduino IDE: https://www.arduino.cc/en/Main/Software
 
+### Using a Mac?
+The UNO boards distributed in class use a CH340 serial chip, which requires a special driver to function on older versions of MacOS (High Sierra 10.13 and older). MacOS 10.14 Mojave includes the appropriate driver.
+
+If you're running an older version of MacOS, you can grab [Ardrian Milhalko's driver here](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver). Instructions are in the README file, and the install is pretty straightforward, though it does require a reboot.
+
+
 ## Notes / Useful Links
 * [Arduino in a Nutshell](https://www.teachmeteamwork.com/files/arduino-in-a-nutshell-1.8.pdf) - Jan Borchers' 20-page crash course in Arduino. Great, simple explanations of Arduino features.
 * [Arduino Website](https://arduino.cc) - Official Arduino project website - lots of great learning tutorials here.
