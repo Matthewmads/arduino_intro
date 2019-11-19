@@ -5,6 +5,10 @@ This repository contains notes, documentation, and code snippets for the MCT Int
 The Arduino IDE is already configured on MakerspaceCT's computers, but when you go to set up the Development Environment at home, here is where to find the software:
 * Download the latest version (1.8.8 as of this writing) of the Arduino IDE: https://www.arduino.cc/en/Main/Software
 
+### Need to create circuit diagrams?
+
+Use [Fritzing](https://fritzing.org/) to create diagrams that are easy for students (and makers!) to replicate.
+
 ### Using a Mac?
 The UNO boards distributed in class use a CH340 serial chip, which requires a special driver to function on older versions of MacOS (High Sierra 10.13 and older). MacOS 10.14 Mojave includes the appropriate driver.
 
