@@ -21,6 +21,7 @@ If you're running an older version of MacOS, you can grab [Ardrian Milhalko's dr
 * [Smraza S32 Starter Kit](https://www.amazon.com/Smraza-Starter-Ultrasonic-Distance-Raspberry/dp/B01MATM4XF/ref=sr_1_1?ie=UTF8&qid=1547591276&sr=8-1&keywords=s32+smraza) - Parts kit used in class (does not include Arduino Uno board or USB cable).
 * [Smraza S32 Tutorial Download](https://mega.nz/#F!9tYjhBLR!LerlzHYou2gNKJvzXs_8aA) - Link to download the source tutorials for the kit used in class.
 * [Uno R3-compatible Board and Cable](https://www.amazon.com/Elegoo-EL-CB-001-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/ref=sr_1_1?keywords=arduino+uno&qid=1552332604&s=gateway&sr=8-1) - sample Arduino-compatible board. This isn't linked because it's any better than any other board. You can also search Amazon, [Bang good](https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html?rmmds=search&cur_warehouse=CN), or any number of other sites for "Arduino Uno R3".
+* [Why can't I write my code in Microsoft Word?](https://learntocodewith.me/programming/basics/text-editors/)
 
 ## Code snippets
 These are some of the code snippets used in class.
