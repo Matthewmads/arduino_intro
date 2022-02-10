@@ -77,7 +77,7 @@ void loop() {
 These code samples were used in Part 2 of MakerspaceCT's Intro to Arduino. Feel free to give them a try on your own!
 
 
-### Stepper
+### Stepper 
 ```
 #include <Stepper.h>
 const int stepsPerRevolution = 200;  // change this to fit the number of steps per revolution
