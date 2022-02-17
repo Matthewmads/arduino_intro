@@ -266,6 +266,9 @@ void loop()
 
 
 ### LCD1602 with  DHT Sensor
+
+//link for similiar tutorial
+//https://create.arduino.cc/projecthub/Druhi_C/temperature-and-humidity-sensor-with-lcd-1602-i2c-display-26fa15
 ```
 #include <LiquidCrystal_I2C.h>
 #include <dht11.h>    
