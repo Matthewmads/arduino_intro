@@ -1,6 +1,7 @@
-#Arduino Projects for Saturdays class
+#Arduino Projects and Resources for Saturday 2/19/22
 
 ##Intro to Github Course (Check your email)
+https://lab.github.com/githubtraining/introduction-to-github
 
 
 ###Moses' idea for a garage sensor
@@ -10,9 +11,9 @@ https://create.arduino.cc/projecthub/vinicius-lopes/parking-sensor-with-arduino-
 
 
 
-
 ###This tutorial expands on our previous experiment featuring the PIR Motion sensor.
-- We are going to begin adding multiple features to our devices so this is a nice easy way to get started.
+- We are going to begin adding multiple features to our devices so this is a nice easy way to get started. This tutorial also utilizes TinkerCad for creating
+your own arduino wiring diagrams. 
 https://www.youtube.com/watch?v=3fOLDJxGAxI
 
 
