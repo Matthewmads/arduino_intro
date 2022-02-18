@@ -1,0 +1,13 @@
+Arduino: 1.8.19 (Windows 10), Board: "Arduino Uno"
+
+Sketch uses 1956 bytes (6%) of program storage space. Maximum is 32256 bytes.
+
+Global variables use 204 bytes (9%) of dynamic memory, leaving 1844 bytes for local variables. Maximum is 2048 bytes.
+
+Error opening serial port 'COM6'. (Port busy)
+
+
+
+This report would have more information with
+"Show verbose output during compilation"
+option enabled in File -> Preferences.
