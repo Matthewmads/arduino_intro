@@ -15,6 +15,9 @@ The UNO boards distributed in class use a CH340 serial chip, which requires a sp
 If you're running an older version of MacOS, you can grab [Ardrian Milhalko's driver here](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver). Instructions are in the README file, and the install is pretty straightforward, though it does require a reboot.
 
 
+### Read Search Ask 
+https://www.freecodecamp.org/news/read-search-dont-be-afraid-to-ask-743a23c411b4/
+
 ## Notes / Useful Links
 * [Arduino in a Nutshell](https://www.teachmeteamwork.com/files/arduino-in-a-nutshell-1.8.pdf) - Jan Borchers' 20-page crash course in Arduino. Great, simple explanations of Arduino features.
 * [Arduino Website](https://arduino.cc) - Official Arduino project website - lots of great learning tutorials here.
