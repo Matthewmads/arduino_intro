@@ -2,6 +2,7 @@ Matt's Email
 mmadigan@makerspacect.com
 
 
-
+37 sensor kit
+https://www.instructables.com/Arduino-37-in-1-Sensors-Kit-Explained/
 
 https://www.freecodecamp.org/news/read-search-dont-be-afraid-to-ask-743a23c411b4/
