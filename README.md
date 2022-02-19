@@ -217,6 +217,8 @@ void loop()
 ```
 
 ### LCD1602
+[Link for tutorial](https://circuitdigest.com/microcontroller-projects/arduino-lcd-interfacing-tutorial)
+The code in the tutorial is not exactly the same as below but the wiring setup will work with either block of code.
 ```
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x3F,16,2);
@@ -241,6 +243,7 @@ void loop()
 
 ```
 ### LCD1602 with Potentiometer
+[link to tutorial}(https://core-electronics.com.au/tutorials/use-lcd-arduino-uno.html)
 ```
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27,16,2);
@@ -271,8 +274,8 @@ void loop()
 
 ### LCD1602 with  DHT Sensor
 
-//link for similiar tutorial
-//https://create.arduino.cc/projecthub/Druhi_C/temperature-and-humidity-sensor-with-lcd-1602-i2c-display-26fa15
+//[link for similiar tutorial](//https://create.arduino.cc/projecthub/Druhi_C/temperature-and-humidity-sensor-with-lcd-1602-i2c-display-26fa15)
+
 ```
 #include <LiquidCrystal_I2C.h>
 #include <dht11.h>    
@@ -319,10 +322,11 @@ void loop()
 
 
 ### Basic UltraSonic Sensor (Analog Readout)
+[link to tutorial](https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380)
 ```
  * HC-SR04 example sketch
  *
- * https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380
+
  *
  * by Isaac100
 
