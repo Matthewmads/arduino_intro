@@ -15,7 +15,8 @@ The UNO boards distributed in class use a CH340 serial chip, which requires a sp
 If you're running an older version of MacOS, you can grab [Ardrian Milhalko's driver here](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver). Instructions are in the README file, and the install is pretty straightforward, though it does require a reboot.
 
 
-### Read Search Ask 
+### Read Search Ask Methodology for finding the information you need
+
 https://www.freecodecamp.org/news/read-search-dont-be-afraid-to-ask-743a23c411b4/
 
 ## Notes / Useful Links
@@ -352,6 +353,9 @@ void loop() {
 }
 
 ```
+
+### Responder 
+
 
 
 
