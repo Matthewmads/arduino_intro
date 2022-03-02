@@ -274,7 +274,7 @@ void loop()
 
 ### LCD1602 with  DHT Sensor
 
-//[link for similiar tutorial](//https://create.arduino.cc/projecthub/Druhi_C/temperature-and-humidity-sensor-with-lcd-1602-i2c-display-26fa15)
+//[link for similiar tutorial](https://create.arduino.cc/projecthub/adrakhmat/temperature-monitor-with-dht22-and-i2c-16x2-lcd-3ddd39)
 
 
 ```
